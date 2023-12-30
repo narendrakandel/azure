@@ -1,2 +1,2 @@
-https://github.com/solliancenet/microsoft-learning-paths-databricks-notebooks/blob/master/data-engineering/DBC/04-Working-With-Dataframes.dbc?raw=true
 # azure
+https://learn.microsoft.com/en-us/training/modules/use-apache-spark-azure-databricks/#clone-the-databricks-archive
